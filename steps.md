@@ -15,4 +15,6 @@ Scrivi un programma che stampi in console i numeri da 1 a 100, ma che:
     - **ALTRIMENTI**
         - mostra solo il numero
 
+# Bonus
+- Mostro nel DOM gli elementi mostarti in console
 
